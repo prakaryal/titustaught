@@ -1,0 +1,19 @@
+h2{
+    background-color: rgb(255, 123, 0);
+    color: brown
+}
+
+p{
+    font-size: 14px;
+    padding: 10px;
+    width: 50%
+}
+
+.heightlight{
+    color: burlywood
+}
+
+.title
+{
+    font-size: 45px
+}
